@@ -3,3 +3,5 @@ Línea 1: Información inicial.
 
 
 La funcion despedir sirve para decir chau mundo
+
+La funcion buenas tardes, es para desearle unas tardes apetecibles al mundo
