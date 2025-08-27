@@ -2,4 +2,6 @@ Este archivo contiene datos de ejemplo para practicar Git.
 Línea 1: Información inicial.
 
 
-La funsion despedir sirve para decir chau mundo
+La funcion despedir sirve para decir chau mundo
+
+La funcion buenas tardes, es para desearle unas tardes apetecibles al mundo
